@@ -1,0 +1,9 @@
+#comandos
+npm init
+npm i socket.io
+
+#insalar nodemon
+npm i --save-dev nodemon
+
+#run application
+npm run  devStart
